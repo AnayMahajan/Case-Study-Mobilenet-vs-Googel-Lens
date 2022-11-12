@@ -1,0 +1,21 @@
+#google_lens_img
+{
+    height: 100;
+    width: 100;
+    border-radius: 30px;
+}
+#container
+{
+    background-color: lightgrey;
+    border-radius: 30px;
+    margin-right:400px;
+
+}
+#output_lens
+{
+    margin-left: 400;
+}
+#output_mobilenet
+{
+    margin-left: 300;
+}
